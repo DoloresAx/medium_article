@@ -1,0 +1,82 @@
+Via Covering Process 🛠
+
+Via Covering ဆိုတာက PCB Board မှာ Solder Mask (ဒါမှမဟုတ်) တစ်ခြား Material တွေနဲ့ Via Hole ကို Cover လုပ်တာ (ဒါမှမဟုတ်) Filling လုပ်တဲ့ Process ကိုပြောတာ ဖြစ်ပါတယ်။
+
+ဘာလို့ Covering လုပ်ဖို့ လိုတာလည်း? 🤔
+
+Via Hole တွေဟာ မတူတဲ့ Layer တွေက Track Line တွေကို ချိတ်ဆက်ထားတာဖြစ်လို့ Electrical Connectivity Performance ပိုပြီးတော့ကောင်းအောင်, အပူစီးကူးမှု နဲ့ Thermal Management ပိုကောင်းအောင် အတွက် လုပ်ကြတာဖြစ်ပါတယ်။
+
+တကယ်လို့ Covering မလုပ်ဘူးဆိုရင်? ⚠️
+
+တစ်ချို့ component parts တွေမှာ အပူတွေစုနေပြီး Thermal Issue တွေ ဖြစ်လာနိုင်ပါတယ်။ Via Hole ထဲကို မလိုအပ်တဲ့ Material တွေ ဝင်လာတာမျိုး ဖြစ်နိုင်တယ်။
+
+
+Covering လုပ်တဲ့ နေရာမှာ အဓိက သုံးမျိုးခွဲထားပါတယ်။ 🎯
+
+1. Via Tenting (Annular Ring, Solder Mask) 🎯
+
+Via Tenting က Via Hole ပေါ်မှာ Solder Mask အုပ်ထားတာပါ။
+
+Layer တစ်ဘက်တည်းကိုဘဲ အုပ်လို့ရသလို Layer နှစ်ဖက်လုံးကို လည်း အုပ်လို့ ရပါတယ်။ 🔄
+
+Via Covering process တွေမှာ အသုံးအများဆုံးနဲ့ အရိုးရှင်းဆုံးဖြစ်ပါတယ်။ 🏆
+
+ဒါပေမယ့် သူ့မှာ မှတ်စရာရှိတာ တစ်ခုက Solder Mask အုပ်တဲ့ Via Hole ဟာ 0.3 mm ထက် သေးမှ ရပါမယ်။ 📏
+
+Solder Mask အုပ်ထားတာဖြစ်လို့ Via Hole ထဲကို Solder Paste ဝင်လာတာတွေကို ကြိုတင် ကာကွယ်ရာရောက်ပါတယ်။ 🛡
+
+Tenting ပုံစံကတော့ Solder Mask ကို via hole ပေါ်ကို အုပ်ထားပြီး annular ring (via hole ပတ်လည်ရှိကြေးနီပြား) ကို ဖော်ထားတဲ့ ပုံစံမျိုးပါ။ 🎨
+
+ဒါပေမယ့် Thermal Control ကောင်းကောင်းလုပ်ဖို့နဲ့ Electrical Connectivity အရမ်းကောင်းဖို့ လိုအပ်တဲ့ Application အတွက် တော့ မသင့်တော်ပါဘူး။ ❌
+
+
+2. Via Plugging 🧩
+
+Via Hole ထဲကို insulating material ပိတ်ထားတဲ့ process ပါ။
+
+ပုံမှန်အားဖြင့် Epoxy နဲ့ Resin လို Material တွေ အသုံးပြုကြပါတယ်။ 🧪
+
+ဒါပေမယ့် Via Hole ထဲ အပြည့်ထည့်ထားတဲ့ မဟုတ်ဘဲနဲ့ အလယ်မှာ နေရာ အလွတ်လေးချန်ထားပါတယ်။ 🕳
+
+တစ်ခုမှတ်ရမှာက Plugging လုပ်မယ့် Via Hole ဟာ 0.5 mm ထက်သေးမှာ ရပါမယ်။ 📏
+
+သူက Tenting ထက်စာရင် Thermal Control ပို ကောင်းလာပါတယ်။ 🔥
+
+Via Hole ကို ပိတ်ထားတာဖြစ်လို့ Hole ထဲကို ဖုန်နဲ့ ကျန်တဲ့ မလိုအပ်တဲ့ Material တွေဝင်လာတာကို လည်း တစ်ခါတည်း ကြိုတင် ကာကွယ်ပြီးသားဖြစ်သွားပါတယ်။ 🛡
+
+
+3. Via Filling 🚀
+
+Via Filling ကတော့ Hole ထဲကို Conductive (ဒါမှမဟုတ်) Non-Conductive Material အပြည့်ဖြည့်ထားတာဖြစ်ပါတယ်။
+
+Via Plugging လိုမျိုး အလယ်မှာ နေရာ လွတ် မချန်ထားဘဲ အပြည့်ဖြည့်ထားတဲ့ ပုံစံမျိုးပါ။ 🎯
+
+သူ့မှာတော့ Via Hole Diameter Size ကန့်သတ်ထားတာတော့မရှိပါဘူး။ 📏
+
+High Frequency PCB Design နဲ့ Signal Integrity ကောင်းဖို့ လိုအပ်တဲ့ Application အတွက် အသင့်တော်ဆုံး Covering Process ဖြစ်ပါတယ်။ 📡
+
+Thermal Control လည်းကောင်းမွန်ပြီးတော့ ကျန် Process နှစ်ခုထက် စာရင် ကုန်ကျစာရိတ်လည်းပိုများပါတယ်။ 💸
+
+
+အချုပ်အားဖြင့် 📝
+
+🎯 Signal Integrity ကောင်းဖို့အတွက်ဆိုရင် Via Filling ကို သုံးသင့်ပါတယ်။
+
+🧩 Thermal Control အတွက် ဆိုရင် Via Plugging ကိုသုံးသင့်ပါတယ်။
+
+💰 Cost Effective ဖြစ်ဖို့အတွက်ဆိုရင် Via Tenting ကို အသုံးပြုသင့်ပါတယ်။
+
+Vias Not Covered ⚡️
+
+Vias Hole တွေကို Covering မလုပ်ထားဘူး ဆိုရင် ဘာတွေဖြစ်နိုင်လဲ?
+
+⚡️ Hole ကို ဘာမှ မအုပ်ထားတာကြောင့် Solder Paste ဒါမှမဟုတ် အခြား Conductive Material တွေ ဝင်လာနိုင်ပြီး Short Circuit ဖြစ်နိုင်ချေ များပါတယ်။
+
+🔥 တစ်ခြားတစ်ဖက်မှာလည်း Cover မအုပ်ထားတာ ဖြစ်တဲ့အတွက် Thermal Conductivity ပိုကောင်းပါတယ်။ High Power Application တွေမှာတော့ အသုံးပြုကြပါတယ်။
+
+💧 Via Hole ဟာ အလုံမဖြစ်တဲ့ အတွက် စိုထိုင်းမှု ကြောင့် Corrosion ဖြစ်နိုင်ပြီးတော့ PCB ရဲ့ စွမ်းဆောင်ရည်ကို လည်း ကျဆင်းစေနိုင်ပါတယ်။
+
+ဒီလောက်ဆိုရင်တော့ Via Covering Process အကြောင်း နားလည်လိမ့်မယ်လို့ ယူဆပါတယ်။ နောက်အပိုင်းတွေကျရင် တွေ့ကျပါမယ်။
+ Peace! ✌️
+
+ #DeepBlueAILab #PCBDesign #ViaHole #ViaCovering #Electronics

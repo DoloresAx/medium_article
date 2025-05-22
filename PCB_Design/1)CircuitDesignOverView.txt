@@ -1,0 +1,34 @@
+🔖🔖 ဒီနေ့ ကတော့ Circuit နဲ့ PCB Board အကြောင်း  Overview လေးပြောရအောင် !!
+Dummy Way ပေါ့
++-+-+-+-+-+-+-+-+-
+
+Define PCB  ?
++-+-+-+-+-+-+-+-+-
+PCB (Printed Circuit Board) ဆိုတာတော့ နာမည်အတိုင်းဘဲ လျှပ်ကာ ဘုတ်ပြား အလွှာ ပေါ်မှာ  Electronic Component တွေ ချိတ်ဆက်လို့ ရအောင် လျှပ် ကူး လမ်းကြောင်းတွေ  Print လုပ်ထားတဲ့ ကော်ပြား တစ်ပြား ပါဘဲ။......
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+PCB မှာ Component ရွေးချယ်မှု, component placement , Track line နေရာချမှုတွေဟာ ဟာ Electronic Device တွေပေါ်မှာ စွမ်းဆောင်ရည်ရော Reliability အရ ရော အများကြီး သက်ရောက်မှု ရှိပါတယ်။.....
++-+-+-+-+-+-+-+-+-
+
+Track Line ?
++-+-+-+-+-+-+-+-+-
+Electronic Component တွေ ဘယ်လိုချိတ်ဆက်သလဲဆိုတော့ ကျွန်တော်တို့ အပြင်မှာ component တွေ တစ်ခု နဲ့ တစ်ခု ဝါယာကြိုးနဲ့ ချိတ်ဆက်သလိုဘဲ PCB Board မှာ ကြေးလမ်းကြောင်း‌ ( Track Line ) တွေနဲ့ Component တွေ တစ်ခုနဲ့ တစ်ခု ချိတ်ဆက် အလုပ်လုပ်ဆောင်ကြတာဖြစ်တယ်။
+
+Signal Line တွေ Power Line တွေ ကိုယ် ချိတ်ဆက်ချင်တဲ့ အပေါ်မူတည်ပြီးတော့ Track ပေါ်မှာ Electron တွေ ကောင်းကောင်း စီးနိုင်အောင်  Track တွေ ရဲ့ အကျယ် ( Width ) ကို ပြောင်းလဲပြီးတော့ ဆွဲကြပါတယ်။
++-+-+-+-+-+-+-+-+-
+
+AC Line အဝင်တွေလိုမျိုး Electron များများစီးချင်ရင် Track  Line Width ကို ကျယ် ကျယ် ထားပေးရတာပေါ့ဗျာ။
+‌နောက်ပြီး PCB Board Design ဆွဲတဲ့အခါ Electron Lost နဲ့ Noise နည်းအောင် Track Line တွေ ကို 90 Degree ဒေါင့်ချိုးမျိုး  ဆွဲတာမျိုးကို ရှောင်ရှားလေ့ရှိကြပါတယ်။
++-+-+-+-+-+-+-+-+-
+
+ကွေ့တဲ့ နေရာတွေမှာ Theroy အရတော့ စက်ဝိုင်းခြမ်း မျိုး ဆွဲ နိုင်ရင် ‌အကောင်းဆုံးပေါ့ဗျာ။
+ဒါပေမယ့် ဘယ် သူမှ မဆွဲကြပါဘူး ။ ဆွဲ ရတာလည်း လက်ဝင်တယ်။ 45 Degree အချိုးမျိုးဘဲ ဆွဲကြပါတယ်။  45 Degree ဆွဲတာက ဆွဲ ရတာလည်းအဆင်ပြေတယ်။ နောက်ပြီး Noise နဲ့  Electron Lost ဖြစ်တာ အရမ်းမသိသာ တာ ကြောင့်လည်း ဖြစ်ပါတယ်။.
+ +-+-+-+-+-+-+-+-+-
+
+ချွင့်ချက်အနေနဲ့ ကတော့ Circuit Board ပေါ်မှာ တစ်ခါတည်း ထည့် တဲ့ Frequency Signal ထွက်ဖို့လိုတဲ့ Antenna မျိုးတွေ ဉပမာ RF Antenna , Bluetooth Antenna Module မျိုးတွေကိုတော့ 90 Degree ဒေါင့်ချိုးမျိုးနဲ့ ဆွဲကြပါတယ်။
+Can Bus Data Line တွေလို Differential Signaling နဲ့ အလုပ်လုပ်တဲ့ Communication တွေမှာလည်း   Track Line တူညီဖို့ အတွက် Antenna Design လို မျိုး Track Line တွေကို ဆွဲကျပါတယ်။
++-+-+-+-+-+-+-+-+-
+#romdynamics
+#romrobotics 
+#deepblueailab
+Enhanced your edu : https://deepblueailab.com/education.html
