@@ -1,0 +1,65 @@
+git init 
+
+git status ( shwo staging)
+
+modified ဆို red နဲ့ပြပြီး staging mode ဆို green 
+
+git add . * ( modified stage to staging) 
+
+git rm --cached <index.html(newfile)> # remove form staging(add) state
+
+
+git log --oneline ( one line log)
+
+git log ( commit log)
+
+checkout commit ( code   s
+
+git checkout <commit Id>
+
+
+git revert <commitid> ( delete the commit and create new one exclusive revert commit)
+
+gti reset <commitid> --hard
+
+###########################
+
+git branch -a ( a for all branch)
+
+git branch feacture-1 ( create new branch)
+
+git checkout feacture-1 ( change feacture-1 branch)
+
+git checkout -B feacture-1 ( create new branch and change branch)
+
+branch တွေ change ရင် main ထဲ ကနေဘဲ change ပါ။
+
+git branch -B feacture_1 ( delete the branch // main branch ထဲ change ပြီး  ဖျက်ပါ။)
+
+##################################
+
+Merge 
+
+ပေါင်းချင်တဲ့ branch ထဲ ကနေ ဉပမာ main
+
+git merge branch1( main branch ထဲကို branch1 က ပေါင်းထည့်မယ်)
+
+####################################
+
+local project folder ကနေ github ပေါ်တင်မယ်။
+
+github မှာ new repo တစ်ခု create မယ်။
+
+local project folder မှာ gti remote orighin <ssh><http link reop>
+
+####################################################
+
+git clone (https or ssh link)
+
+#################################################
+
+git push origin main ( push the source code)
+
+
+
+
