@@ -4,23 +4,20 @@ git status ( shwo staging)
 
 modified ဆို red နဲ့ပြပြီး staging mode ဆို green 
 
-git add . * ( modified stage to staging) 
+git add . * ( modified to staging) 
 
 git rm --cached <index.html(newfile)> # remove form staging(add) state
-
 
 git log --oneline ( one line log)
 
 git log ( commit log)
-
-checkout commit ( code   s
 
 git checkout <commit Id>
 
 
 git revert <commitid> ( delete the commit and create new one exclusive revert commit)
 
-gti reset <commitid> --hard
+gti reset <commitid> --hard ( commit reset)
 
 ###########################
 
@@ -60,6 +57,10 @@ git clone (https or ssh link)
 
 git push origin main ( push the source code)
 
+git branch -D <branchname> ( Delete the branch local version system )
 
+git push origin --delete ( Delete to git hub)
+
+ 
 
 
