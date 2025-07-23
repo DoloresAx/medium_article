@@ -6,6 +6,9 @@ modified ဆို red နဲ့ပြပြီး staging mode ဆို green
 
 git add . * ( modified to staging) 
 
+git restore --staged .( undo to modified stage)
+
+
 git rm --cached <index.html(newfile)> # remove form staging(add) state
 
 git log --oneline ( one line log)
